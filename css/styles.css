@@ -1,0 +1,46 @@
+.page-footer{
+	background: #eaeaea!important;
+}
+.footTxt{
+	font-family: 'Libre Baskerville', serif;
+	font-size: 18px;
+	color: #333!important;
+}
+.fTxtColor{
+	color: #333!important;
+}
+.carne{
+	font-family: 'Libre Baskerville', serif;
+	letter-spacing: 1px;
+}
+.header{
+	font-family: 'Quattrocento', serif;
+	font-weight: bold;
+	text-align: center;
+	text-transform: none;
+}
+.contTitulo{
+	padding-top: 40px;
+	padding-bottom: 70px;
+}
+p{
+	font-family: 'Libre Baskerville', serif;
+	color: #000!important;
+	text-indent: 40px!important;
+	text-align: justify;
+}
+.imgCont{
+	display: block;
+	height: auto;
+	padding-bottom: 70px!important;
+}
+.contBannerImg{
+	padding-bottom: 70px;
+}
+.bannerImg{
+	width: 274px;
+}
+.parrafosExpositivos{
+	width: 70%;
+	margin: auto;
+}
